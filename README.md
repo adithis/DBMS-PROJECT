@@ -1,2 +1,2 @@
 # DBMS-PROJECT
-Covid Bed Management System
+Covid Record Management System
